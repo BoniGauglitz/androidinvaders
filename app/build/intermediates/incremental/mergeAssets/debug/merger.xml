@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/boni/Dev/Games/androidinvaders/app/src/main/assets"><file name="fonts/TECHNOID.TTF" path="/Users/boni/Dev/Games/androidinvaders/app/src/main/assets/fonts/TECHNOID.TTF"/></source></dataSet><dataSet config="debug"><source path="/Users/boni/Dev/Games/androidinvaders/app/src/debug/assets"/></dataSet></merger>
