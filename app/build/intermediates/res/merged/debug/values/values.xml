@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/boni/Dev/Games/androidinvaders/app/src/main/res/values/arrays.xml -->
+    <eat-comment/>
+    <string-array name="tap_sensitivity">
+ <item>1</item>
+ <item>2</item>
+ <item>3</item>
+ <item>4</item>
+ <item>5</item>
+</string-array>
+    <!-- From: file:/Users/boni/Dev/Games/androidinvaders/app/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="transparent">#00000000</color>
+    <!-- From: file:/Users/boni/Dev/Games/androidinvaders/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Triage</string>
+    <string name="game_over">Game over!</string>
+    <string name="level_cleared">Level cleared!</string>
+    <string name="menu_pause">Pause</string>
+    <string name="menu_resume">Resume</string>
+    <string name="menu_start">Start Game</string>
+    <string name="pause">Paused</string>
+    <string name="score">Score: </string>
+    <!-- From: file:/Users/boni/Dev/Games/androidinvaders/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="Theme.CustomDialog" parent="android:style/Theme.Dialog">
+    <item name="android:windowBackground">@drawable/filled_box</item>
+  </style>
+    <style name="Theme.Transparent" parent="android:Theme">
+    <item name="android:windowIsTranslucent">true</item>
+    <item name="android:windowBackground">@color/transparent</item>
+    <item name="android:windowContentOverlay">@null</item>
+    <item name="android:windowNoTitle">true</item>
+    <item name="android:windowIsFloating">true</item>
+    <item name="android:backgroundDimEnabled">false</item>
+  </style>
+</resources>
